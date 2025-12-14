@@ -1,10 +1,10 @@
 ---
-permalink: /
+layout: archive
 title: "Interests"
-author_profile: false
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /interests/
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
 # Interests
