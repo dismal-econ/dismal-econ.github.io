@@ -1,10 +1,10 @@
 ---
 permalink: /
 title: "Interests"
-author_profile: true
+author_profile: false
 redirect_from: 
-  - /interests/
-  - /interests.html
+  - /about/
+  - /about.html
 ---
 
 # Interests
