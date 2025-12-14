@@ -7,7 +7,7 @@ redirect_from:
 
 ---
 Here is a list of topics I am interested in at the moment:
-- Advances in data and methods used for assessing anthopogenic Earth system impacts
+- Advances in data and methods used for assessing anthropogenic Earth system impacts
 - Nexus between macroeconomic-environmental phenomena
 - Conflicts and natural resources
 - Global income and wealth inequality
